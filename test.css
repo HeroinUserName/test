@@ -1,0 +1,6 @@
+/* Przykład motywu CSS do ustawienia banera na profilu */
+.profile-banner {
+    background-image: url('https://cdn.discordapp.com/attachments/1326184395052285982/1327652006894108813/Usernamehui.png?ex=6783d7c9&is=67828649&hm=51553966cc6140bd7d89f38cea17e6d9466be7d954fde78445b108963a9589c5&'); /* Wstaw tutaj link do obrazu banera */
+    background-size: cover;
+    height: 200px; /* Ustaw wysokość banera */
+}
